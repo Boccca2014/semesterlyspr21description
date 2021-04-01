@@ -16,9 +16,10 @@ nav {
 }
 
 .advisor .description {
-	display: flex;
+	/* display: flex;
 	flex: 0 60%;	
-	flex-flow: row wrap;
+	flex-flow: row wrap; */
+	text-align:center;
 }
 
 .description h1 {
