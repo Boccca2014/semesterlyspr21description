@@ -1,2 +1,3 @@
 # Semester.ly Project Objectives - Spring 2021
-Full project: https://github.com/jhuopensource/semesterly
+Project Repository: https://github.com/jhuopensource/semesterly
+Project Course Website: http://www.cnds.jhu.edu/courses/cs310/semesterly/
